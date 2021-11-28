@@ -1,3 +1,5 @@
-# swiftdocorg-test
+# SwiftDocOrg Test #
 
-A description of this package.
+SwiftDocOrg Test Repository
+
+<https://github.com/SwiftDocOrg/swift-doc>
