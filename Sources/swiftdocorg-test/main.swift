@@ -4,7 +4,7 @@ print("Hello, world!")
 /**
  A class
  */
-class A {
+public class A {
 
     public func a() {
     }
