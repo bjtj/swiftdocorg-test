@@ -12,7 +12,6 @@ public class A {
     /**
      this is function `b`
      - Parameter param1: string param1
-     - @param param1: string param
      */
     public func b(param1: String) {
     }
